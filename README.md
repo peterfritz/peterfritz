@@ -3,5 +3,4 @@
 <div align="center">
   <img alt="User statistics" src="https://github-stats-beta-self.vercel.app/api/?username=peterfritz&theme=github_dark&hide_border=true" />
   <img alt="Top languages" src="https://github-stats-beta-self.vercel.app/api/top-langs/?username=peterfritz&theme=github_dark&hide_border=true&langs_count=10" />
-  <img alt="My school's website" src="https://github-stats-beta-self.vercel.app/api/pin?username=radiomarchetti&repo=ermanomarchetti&theme=github_dark&hide_border=true" />
 </div>
