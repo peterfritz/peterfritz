@@ -1,7 +1,15 @@
-<h1 align="center">Peter Fritz</h1>
-
 <div align="center">
-  <img alt="User statistics" src="https://github-stats-beta-self.vercel.app/api/?username=peterfritz&theme=github_dark&hide_border=true" />
+  <hr />
+  <br />
+  <a href="https://ptr.red/readme">
+    <img src="ptr_animated.svg" alt="an animated barcode with 'ptr' written on it">
+  </a>
+  <br />
+  <br />
+  <h2>Peter Fritz</h2>
+  <h3>Desenvolvedor de software em desenvolvimento.</h3>
+  <br />
+  <hr />
+  <br />
   <img alt="Top languages" src="https://github-stats-beta-self.vercel.app/api/top-langs/?username=peterfritz&theme=github_dark&hide_border=true&langs_count=10" />
-  <img alt="Contribution grid" src="https://raw.githubusercontent.com/peterfritz/peterfritz/output/github-contribution-grid-snake.svg" />
 </div>
