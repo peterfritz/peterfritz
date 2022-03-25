@@ -1,6 +1,7 @@
 <div align="center">
   <hr />
   <br />
+  <br />
   <a href="https://ptr.red/readme">
     <img src="ptr_animated.svg" alt="an animated barcode with 'ptr' written on it">
   </a>
