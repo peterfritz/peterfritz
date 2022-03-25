@@ -18,6 +18,6 @@
   <br />
   <br />
   <a href="mailto:me@peterfritz.dev">
-    <img alt="a button with 'contact me' written on it" src="https://user-images.githubusercontent.com/61599784/160156133-39ef1ce4-5c28-453a-a4e1-364f4b72021c.png"  width="150"/>
+    <img alt="a button with 'contact me' written on it" src="https://user-images.githubusercontent.com/61599784/160160026-62d7fb75-ceca-4521-a413-936b3e1b6e4a.png"  width="175"/>
   </a>
 </div>
