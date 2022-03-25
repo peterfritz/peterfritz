@@ -8,7 +8,7 @@
   <br />
   <br />
   <h2>Peter Fritz</h2>
-  <h3>Desenvolvedor de software em desenvolvimento.</h3>
+  <h3>Software developer under development.</h3>
   <br />
   <hr />
   <br />
@@ -18,6 +18,6 @@
   <br />
   <br />
   <a href="mailto:me@peterfritz.dev">
-    <img alt="a button with 'contact me' written on it" src="https://user-images.githubusercontent.com/61599784/160123126-6e4eb44b-6e43-41f1-824e-666ecae5b68a.png"  width="300"/>
+    <img alt="a button with 'contact me' written on it" src="https://user-images.githubusercontent.com/61599784/160156133-39ef1ce4-5c28-453a-a4e1-364f4b72021c.png"  width="150"/>
   </a>
 </div>
