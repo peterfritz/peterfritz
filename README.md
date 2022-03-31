@@ -12,12 +12,25 @@
   <br />
   <hr />
   <br />
+  <div>
+    <h2>Badges</h2>
+    <br />
+    <a href="https://www.credly.com/badges/c97628b1-c53c-4cc3-a49b-2c402da79a1e/public_url" target="_blank" rel="noopener noreferrer">
+      <img src="https://user-images.githubusercontent.com/61599784/161043251-58a40eb8-2394-4003-b39e-e47e57b8a768.png" height="100" />
+    </a>
+    <a href="https://app.pluralsight.com/score/redir/50c18da3-a6ff-4cce-af43-e152230c754b?d80c345857" target="_blank" rel="noopener noreferrer">
+      <img src="https://s2.pluralsight.com/assessments/badges/javascript-211-03-2022@2x.png" height="100" />
+    </a>
+  </div>
+  <br />
+
   <h2>Skills</h2>
-
   </br>
-
   <div>
     <h3>Languages</h3>
+    <a>
+      <img alt="Digital Ocean" src="https://img.shields.io/badge/DIGITAL%20OCEAN-000000?style=for-the-badge&logo=DIGITALOCEAN&logoColor=0080FF" />
+    </a>
     <a>
       <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
@@ -140,7 +153,7 @@
         <img alt="Google Tag Manager" src="https://img.shields.io/badge/GOOGLE%20TAG%20MANAGER-000000?style=for-the-badge&logo=googletagmanager&logoColor=246FDB" />
       </a>
       <a>
-        <img alt="Google My Business" src="https://img.shields.io/badge/GOOGLE%20TAG%20MANAGER-000000?style=for-the-badge&logo=googlemybusiness&logoColor=4285F4" />
+        <img alt="Google My Business" src="https://img.shields.io/badge/GOOGLE%20MY%20BUSINESS-000000?style=for-the-badge&logo=googlemybusiness&logoColor=4285F4" />
       </a>
     </div>
     <br/>
