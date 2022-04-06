@@ -3,7 +3,7 @@
   <br />
   <br />
   <a href="https://ptr.red/readme">
-    <img alt="an animated barcode with 'ptr' written on it" src="ptr_animated.svg">
+    <img alt="an animated barcode with 'ptr' written on it" src="ptr_animated.svg" height="250">
   </a>
   <br />
   <br />
