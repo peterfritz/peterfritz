@@ -35,10 +35,16 @@
   <div>
     <h3>Languages</h3>
     <a href="#null">
-      <img alt="Digital Ocean" title="Digital Ocean" src="https://img.shields.io/badge/DIGITAL%20OCEAN-000000?style=for-the-badge&logo=DIGITALOCEAN&logoColor=0080FF" />
+      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
     <a href="#null">
-      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img alt="Typescript" title="Typescript" src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+    </a>
+    <a href="#null">
+      <img alt="Ruby" title="Ruby" src="https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=CC342D" />
+    </a>
+    <a href="#null">
+      <img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
     </a>
     <a href="#null">
       <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -46,26 +52,17 @@
     <a href="#null">
       <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
     </a>
-    <a href="#null">
-      <img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
-    </a>
-    <a href="#null">
-      <img alt="Ruby" title="Ruby" src="https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=CC342D" />
-    </a>
   </div>
 
   <br />
 
   <div>
-    <h3>Frameworks</h3>
+    <h3>Frameworks and libraries</h3>
     <a href="#null">
       <img alt="NextJS" title="NextJS" src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
     </a>
     <a href="#null">
       <img alt="React" title="React" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </a>
-    <a href="#null">
-      <img alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/NODEJS-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
     </a>
     <a href="#null">
       <img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
@@ -76,6 +73,9 @@
 
   <div>
     <h3>Tools</h3>
+    <a href="#null">
+      <img alt="Docker" title="Docker" src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+    </a>
     <a href="#null">
       <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
     </a>
@@ -107,14 +107,54 @@
       <img alt="DatoCMS" title="DatoCMS" src="https://img.shields.io/badge/DATOCMS-000000?style=for-the-badge&logo=datocms&logoColor=FF7751" />
     </a>
   </div>
-  
+  <br />
+  <div>
+    <h3>Database</h3>
+    <a href="#null">
+      <img alt="Fauna" title="Fauna" src="https://img.shields.io/badge/Fauna-000000?style=for-the-badge&logo=fauna&logoColor=3A1AB6" />
+    </a>
+    <a href="#null">
+      <img alt="Planet Scale" title="Planet Scale" src="https://img.shields.io/badge/Planet%20Scale-000000?style=for-the-badge&logo=planetscale&logoColor=FFFFFF" />
+    </a>
+    <a href="#null">
+      <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+    </a>
+    <a href="#null">
+      <img alt="Prisma" title="Prisma" src="https://img.shields.io/badge/PRISMA-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
+    </a>
+  </div>
+  <br />
+  <div>
+    <h3>Security</h3>
+    <a href="#null">
+      <img alt="OWASP" title="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
+    </a>
+    <a href="#null">
+      <img alt="Wireshark" title="Wireshark" src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+    </a>
+  </div>
+
   <br />
 
   <details>
     <summary>More skills</summary>
+    <br/>
+    <div>
+      <h3>Testing</h3>
+      <a href="#null">
+        <img alt="Jest" title="Jest" src="https://img.shields.io/badge/JEST-000000?style=for-the-badge&logo=jest&logoColor=C21325" />
+      </a>
+      <a href="#null">
+        <img alt="Cypress" title="Cypress" src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logo=cypress&logoColor=FFFFFF" />
+      </a>
+      <a href="#null">
+        <img alt="Testing Library" title="Testing Library" src="https://img.shields.io/badge/TESTING%20LIBRARY-000000?style=for-the-badge&logo=testinglibrary&logoColor=E33332" />
+      </a>
+      </a>
+    </div>
     <br />
     <div>
-      <h3>Hosting and deployment</h3>
+      <h3>DNS, hosting and deployment</h3>
       <a href="#null">
         <img alt="Google Domains" title="Google Domains" src="https://img.shields.io/badge/GOOGLE%20DOMAINS-000000?style=for-the-badge&logo=googledomains&logoColor=4285F4" />
       </a>
@@ -132,6 +172,9 @@
       </a>
       <a href="#null">
         <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+      </a>
+      <a href="#null">
+        <img alt="Digital Ocean" title="Digital Ocean" src="https://img.shields.io/badge/DIGITAL%20OCEAN-000000?style=for-the-badge&logo=DIGITALOCEAN&logoColor=0080FF" />
       </a>
     </div>
     <br/>
@@ -156,9 +199,6 @@
         <img alt="Google Search Console" title="Google Search Console" src="https://img.shields.io/badge/GOOGLE%20SEARCH%20CONSOLE-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5" />
       </a>
       <a href="#null">
-        <img alt="Google Tag Manager" title="Google Tag Manager" src="https://img.shields.io/badge/GOOGLE%20TAG%20MANAGER-000000?style=for-the-badge&logo=googletagmanager&logoColor=246FDB" />
-      </a>
-      <a href="#null">
         <img alt="Google My Business" title="Google My Business" src="https://img.shields.io/badge/GOOGLE%20MY%20BUSINESS-000000?style=for-the-badge&logo=googlemybusiness&logoColor=4285F4" />
       </a>
     </div>
@@ -175,69 +215,6 @@
         <img alt="Windows" title="Windows" src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6" />
       </a>
     </div>
-    <br />
-    <details>
-      <summary>Learning / Work in Progess</summary>
-      <br />
-      <div>
-        <h3>Languages</h3>
-        <a href="#null">
-          <img alt="Go" title="Go" src="https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
-        </a>
-        <a href="#null">
-          <img alt="Deno" title="Deno" src="https://img.shields.io/badge/DENO-000000?style=for-the-badge&logo=deno&logoColor=FFFFFF" />
-        </a>
-        <a href="#null">
-          <img alt="Python" title="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-        </a>
-      </div>
-      <br />
-      <div>
-        <h3>Frameworks</h3>
-        <a href="#null">
-          <img alt="NestJS" title="NestJS" src="https://img.shields.io/badge/NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-        </a>
-        <a href="#null">
-          <img alt="Svelte" title="Svelte" src="https://img.shields.io/badge/SVELTE-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-        </a>
-      </div>
-      <br />
-      <div>
-        <h3>Tools</h3>
-        <a href="#null">
-          <img alt="Docker" title="Docker" src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-        </a>
-        <a href="#null">
-          <img alt="Jest" title="Jest" src="https://img.shields.io/badge/JEST-000000?style=for-the-badge&logo=jest&logoColor=C21325" />
-        </a>
-        <a href="#null">
-          <img alt="Cypress" title="Cypress" src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logo=cypress&logoColor=FFFFFF" />
-        </a>
-        <a href="#null">
-          <img alt="GraphQL" title="GraphQL" src="https://img.shields.io/badge/GRAPHQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098" />
-        </a>
-        <a href="#null">
-          <img alt="AMP" title="AMP" src="https://img.shields.io/badge/AMP-000000?style=for-the-badge&logo=amp&logoColor=005AF0" />
-        </a>
-      </div>
-      <br />
-      <div>
-        <h3>Operating Systems</h3>
-        <a href="#null">
-          <img alt="Arch Linux" title="Arch Linux" src="https://img.shields.io/badge/ARCH%20LINUX-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
-        </a>
-      </div>
-      <br />
-      <div>
-        <h3>Security</h3>
-        <a href="#null">
-          <img alt="OWASP" title="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
-        </a>
-        <a href="#null">
-          <img alt="Wireshark" title="Wireshark" src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-        </a>
-      </div>
-    </details>
   </details>
 
   <br />
