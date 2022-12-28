@@ -8,7 +8,7 @@
   <br />
   <br />
   <h2>Peter Fritz</h2>
-  <h3>Front-end developer.</h3>
+  <h3>Fullstack developer.</h3>
   <br />
   <hr />
   <br />
