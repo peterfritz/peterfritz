@@ -8,7 +8,7 @@
   <br />
   <br />
   <h2>Peter Fritz</h2>
-  <h3>Software developer under development.</h3>
+  <h3>Front-end developer.</h3>
   <br />
   <hr />
   <br />
