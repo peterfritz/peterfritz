@@ -8,14 +8,14 @@
   <br />
   <br />
   <h2>Peter Fritz</h2>
-  <h3>Fullstack developer.</h3>
+  <h3>Full stack developer.</h3>
   <br />
   <hr />
   <br />
   <div>
     <h2>Badges and accomplishments</h2>
     <br />
-    <a href="#null" target="_blank" rel="noopener noreferrer">
+    <a href="#null">
       <img alt="Open Source Initiative Community Member" title="Open Source Initiative Community Member" src="https://user-images.githubusercontent.com/61599784/172642179-4b6a410f-a13d-4e30-8f10-412ef1c87816.svg" height="100" />
     </a>
     <a href="https://www.credly.com/badges/c97628b1-c53c-4cc3-a49b-2c402da79a1e/public_url" target="_blank" rel="noopener noreferrer">
@@ -241,7 +241,10 @@
       <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
     </a>
   </div>
+  <br />
+  <hr />
+  <a href="https://peterfritz-peterfritz.vercel.app/api/spotify/now-playing?redirect=1" id="now-listening">
+    <img src="https://peterfritz-peterfritz.vercel.app/api/spotify/now-playing.svg" height="100" />
+  </a>
+  <br />
 </div>
-
-<br />
-<hr />
