@@ -35,22 +35,22 @@
   <div>
     <h3>Languages</h3>
     <picture>
-      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20">
+      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </picture>
     <picture>
-      <img alt="Typescript" title="Typescript" src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" height="20">
+      <img alt="Typescript" title="Typescript" src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
     </picture>
     <picture>
-      <img alt="Ruby" title="Ruby" src="https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=CC342D" height="20">
+      <img alt="Ruby" title="Ruby" src="https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=CC342D" />
     </picture>
     <picture>
-      <img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" height="20">
+      <img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" height="20">
+      <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
     </picture>
     <picture>
-      <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" height="20">
+      <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
     </picture>
   </div>
 
@@ -59,13 +59,13 @@
   <div>
     <h3>Frameworks and libraries</h3>
     <picture>
-      <img alt="NextJS" title="NextJS" src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" height="20">
+      <img alt="NextJS" title="NextJS" src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="React" title="React" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">
+      <img alt="React" title="React" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </picture>
     <picture>
-      <img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" height="20">
+      <img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
     </picture>
   </div>
 
@@ -74,63 +74,63 @@
   <div>
     <h3>Tools</h3>
     <picture>
-      <img alt="Docker" title="Docker" src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" height="20">
+      <img alt="Docker" title="Docker" src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
     </picture>
     <picture>
-      <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="20">
+      <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
     </picture>
     <picture>
-      <img alt="VSCode" title="VSCode" src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="20">
+      <img alt="VSCode" title="VSCode" src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
     </picture>
     <picture>
-      <img alt="Windows Terminal" title="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF" height="20">
+      <img alt="Windows Terminal" title="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Bash" title="Bash" src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" height="20">
+      <img alt="Bash" title="Bash" src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Insomnia" title="Insomnia" src="https://img.shields.io/badge/INSOMNIA-000000?style=for-the-badge&logo=insomnia&logoColor=4000BF" height="20">
+      <img alt="Insomnia" title="Insomnia" src="https://img.shields.io/badge/INSOMNIA-000000?style=for-the-badge&logo=insomnia&logoColor=4000BF" />
     </picture>
     <picture>
-      <img alt="Git" title="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" height="20">
+      <img alt="Git" title="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" />
     </picture>
     <picture>
-      <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="20">
+      <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Express" title="Express" src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" height="20">
+      <img alt="Express" title="Express" src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Figma" title="Figma" src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" height="20">
+      <img alt="Figma" title="Figma" src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
     </picture>
     <picture>
-      <img alt="DatoCMS" title="DatoCMS" src="https://img.shields.io/badge/DATOCMS-000000?style=for-the-badge&logo=datocms&logoColor=FF7751" height="20">
+      <img alt="DatoCMS" title="DatoCMS" src="https://img.shields.io/badge/DATOCMS-000000?style=for-the-badge&logo=datocms&logoColor=FF7751" />
     </picture>
   </div>
   <br />
   <div>
     <h3>Database</h3>
     <picture>
-      <img alt="Fauna" title="Fauna" src="https://img.shields.io/badge/Fauna-000000?style=for-the-badge&logo=fauna&logoColor=3A1AB6" height="20">
+      <img alt="Fauna" title="Fauna" src="https://img.shields.io/badge/Fauna-000000?style=for-the-badge&logo=fauna&logoColor=3A1AB6" />
     </picture>
     <picture>
-      <img alt="Planet Scale" title="Planet Scale" src="https://img.shields.io/badge/Planet%20Scale-000000?style=for-the-badge&logo=planetscale&logoColor=FFFFFF" height="20">
+      <img alt="Planet Scale" title="Planet Scale" src="https://img.shields.io/badge/Planet%20Scale-000000?style=for-the-badge&logo=planetscale&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="20">
+      <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Prisma" title="Prisma" src="https://img.shields.io/badge/PRISMA-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF" height="20">
+      <img alt="Prisma" title="Prisma" src="https://img.shields.io/badge/PRISMA-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
     </picture>
   </div>
   <br />
   <div>
     <h3>Security</h3>
     <picture>
-      <img alt="OWASP" title="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF" height="20">
+      <img alt="OWASP" title="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
     </picture>
     <picture>
-      <img alt="Wireshark" title="Wireshark" src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="20">
+      <img alt="Wireshark" title="Wireshark" src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
     </picture>
   </div>
 
@@ -142,13 +142,13 @@
     <div>
       <h3>Testing</h3>
       <picture>
-        <img alt="Jest" title="Jest" src="https://img.shields.io/badge/JEST-000000?style=for-the-badge&logo=jest&logoColor=C21325" height="20">
+        <img alt="Jest" title="Jest" src="https://img.shields.io/badge/JEST-000000?style=for-the-badge&logo=jest&logoColor=C21325" />
       </picture>
       <picture>
-        <img alt="Cypress" title="Cypress" src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logo=cypress&logoColor=FFFFFF" height="20">
+        <img alt="Cypress" title="Cypress" src="https://img.shields.io/badge/CYPRESS-000000?style=for-the-badge&logo=cypress&logoColor=FFFFFF" />
       </picture>
       <picture>
-        <img alt="Testing Library" title="Testing Library" src="https://img.shields.io/badge/TESTING%20LIBRARY-000000?style=for-the-badge&logo=testinglibrary&logoColor=E33332" height="20">
+        <img alt="Testing Library" title="Testing Library" src="https://img.shields.io/badge/TESTING%20LIBRARY-000000?style=for-the-badge&logo=testinglibrary&logoColor=E33332" />
       </picture>
       </a>
     </div>
@@ -156,63 +156,63 @@
     <div>
       <h3>DNS, hosting and deployment</h3>
       <picture>
-        <img alt="Google Domains" title="Google Domains" src="https://img.shields.io/badge/GOOGLE%20DOMAINS-000000?style=for-the-badge&logo=googledomains&logoColor=4285F4" height="20">
+        <img alt="Google Domains" title="Google Domains" src="https://img.shields.io/badge/GOOGLE%20DOMAINS-000000?style=for-the-badge&logo=googledomains&logoColor=4285F4" />
       </picture>
       <picture>
-        <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/CLOUDFLARE-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020" height="20">
+        <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/CLOUDFLARE-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
       </picture>
       <picture>
-        <img alt="Vercel" title="Vercel" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="20">
+        <img alt="Vercel" title="Vercel" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
       </picture>
       <picture>
-        <img alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="20">
+        <img alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
       </picture>
       <picture>
-        <img alt="Google Cloud" title="Google Cloud" src="https://img.shields.io/badge/GOOGLE%20CLOUD-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4" height="20">
+        <img alt="Google Cloud" title="Google Cloud" src="https://img.shields.io/badge/GOOGLE%20CLOUD-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
       </picture>
       <picture>
-        <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="20">
+        <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
       </picture>
       <picture>
-        <img alt="Digital Ocean" title="Digital Ocean" src="https://img.shields.io/badge/DIGITAL%20OCEAN-000000?style=for-the-badge&logo=DIGITALOCEAN&logoColor=0080FF" height="20">
+        <img alt="Digital Ocean" title="Digital Ocean" src="https://img.shields.io/badge/DIGITAL%20OCEAN-000000?style=for-the-badge&logo=DIGITALOCEAN&logoColor=0080FF" />
       </picture>
     </div>
     <br/>
     <div>
       <h3>Tools</h3>
       <picture>
-        <img alt="Prettier" title="Prettier" src="https://img.shields.io/badge/PRETTIER-000000?style=for-the-badge&logo=prettier&logoColor=F7B93E" height="20">
+        <img alt="Prettier" title="Prettier" src="https://img.shields.io/badge/PRETTIER-000000?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
       </picture>
       <picture>
-        <img alt="ESLint" title="ESLint" src="https://img.shields.io/badge/ESLINT-000000?style=for-the-badge&logo=ESLint&logoColor=4B32C3" height="20">
+        <img alt="ESLint" title="ESLint" src="https://img.shields.io/badge/ESLINT-000000?style=for-the-badge&logo=ESLint&logoColor=4B32C3" />
       </picture>
       <picture>
-        <img alt="P5.js" title="P5.js" src="https://img.shields.io/badge/P5.JS-000000?style=for-the-badge&logo=p5.js&logoColor=ED225D" height="20">
+        <img alt="P5.js" title="P5.js" src="https://img.shields.io/badge/P5.JS-000000?style=for-the-badge&logo=p5.js&logoColor=ED225D" />
       </picture>
       <picture>
-        <img alt="Google Colab" title="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" height="20">
+        <img alt="Google Colab" title="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
       </picture>
       <picture>
-        <img alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/GOOGLE%20ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=E37400" height="20">
+        <img alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/GOOGLE%20ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
       </picture>
       <picture>
-        <img alt="Google Search Console" title="Google Search Console" src="https://img.shields.io/badge/GOOGLE%20SEARCH%20CONSOLE-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5" height="20">
+        <img alt="Google Search Console" title="Google Search Console" src="https://img.shields.io/badge/GOOGLE%20SEARCH%20CONSOLE-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=458CF5" />
       </picture>
       <picture>
-        <img alt="Google My Business" title="Google My Business" src="https://img.shields.io/badge/GOOGLE%20MY%20BUSINESS-000000?style=for-the-badge&logo=googlemybusiness&logoColor=4285F4" height="20">
+        <img alt="Google My Business" title="Google My Business" src="https://img.shields.io/badge/GOOGLE%20MY%20BUSINESS-000000?style=for-the-badge&logo=googlemybusiness&logoColor=4285F4" />
       </picture>
     </div>
     <br/>
     <div>
       <h3>Operating Systems</h3>
       <picture>
-        <img alt="Linux" title="Linux" src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" height="20">
+        <img alt="Linux" title="Linux" src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
       </picture>
       <picture>
-        <img alt="Ubuntu" title="Ubuntu" src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420" height="20">
+        <img alt="Ubuntu" title="Ubuntu" src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
       </picture>
       <picture>
-        <img alt="Windows" title="Windows" src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6" height="20">
+        <img alt="Windows" title="Windows" src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=0078D6" />
       </picture>
     </div>
   </details>
@@ -223,22 +223,22 @@
     <h2>Reach out to me on</h2>
     <br />
     <a href="https://ptr.red/tt" target="_blank" rel="noopener noreferrer">
-      <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" height="20">
+      <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" />
     </a>
     <a href="https://ptr.red/ig" target="_blank" rel="noopener noreferrer">
-      <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" height="20">
+      <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
     </a>
     <a href="https://ptr.red/kb" target="_blank" rel="noopener noreferrer">
-      <img alt="Keybase" title="Keybase" src="https://img.shields.io/badge/KEYBASE-33A0FF?style=for-the-badge&logo=keybase&logoColor=FFFFFF" height="20">
+      <img alt="Keybase" title="Keybase" src="https://img.shields.io/badge/KEYBASE-33A0FF?style=for-the-badge&logo=keybase&logoColor=FFFFFF" />
     </a>
     <a href="mailto:me@peterfritz.dev" target="_blank" rel="noopener noreferrer">
-      <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="20">
+      <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
     </a>
     <a href="https://ptr.red/tg" target="_blank" rel="noopener noreferrer">
-      <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" height="20">
+      <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" />
     </a>
     <a href="https://ptr.red/in" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="20">
+      <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
     </a>
   </div>
   <br />
