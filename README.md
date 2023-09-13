@@ -42,7 +42,7 @@
     </picture>
     <picture>
       <img alt="Ruby" title="Ruby" src="https://img.shields.io/badge/RUBY-000000?style=for-the-badge&logo=ruby&logoColor=CC342D" />
-    <picturea>
+    </picture>
     <picture>
       <img alt="Markdown" title="Markdown" src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" />
     </picture>
