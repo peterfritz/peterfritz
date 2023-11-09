@@ -15,7 +15,7 @@
       alt="an animated barcode with 'ptr' written on it"
       src="ptr_animated_alt.svg"
       height="250"
-    >
+    />
   </picture>
   <br />
   <br />
@@ -37,7 +37,7 @@
         title="Open Source Initiative Community Member"
         src="https://user-images.githubusercontent.com/61599784/172642179-4b6a410f-a13d-4e30-8f10-412ef1c87816.svg"
         height="100"
-      >
+      />
     </a>
     <a
       href="https://www.credly.com/badges/c97628b1-c53c-4cc3-a49b-2c402da79a1e/public_url"
@@ -48,7 +48,8 @@
         alt="IBM SkillsBuild Cybersecurity Fundamentals"
         title="IBM SkillsBuild Cybersecurity Fundamentals"
         src="https://user-images.githubusercontent.com/61599784/161043251-58a40eb8-2394-4003-b39e-e47e57b8a768.png"
-        height="100">
+        height="100"
+      />
     </a>
     <a
       href="https://app.pluralsight.com/score/redir/50c18da3-a6ff-4cce-af43-e152230c754b?d80c345857"
@@ -60,7 +61,7 @@
         title="Pluralsight SkillIQ JavaScript Expert"
         src="https://s2.pluralsight.com/assessments/badges/javascript-211-03-2022@2x.png"
         height="100"
-      >
+      />
     </a>
     <a
       href="https://app.pluralsight.com/achievements/share/350ecc96-4351-4b48-bf9a-1431f79e8c04"
@@ -72,7 +73,7 @@
         title="Penetration Testing and Ethical Hacking with Kali Linux"
         src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/security/advanced/enabled-dark.b8e831.svg"
         height="100"
-      >
+      />
     </a>
   </div>
   <br />
@@ -897,7 +898,7 @@
     <img
       src="https://peterfritz-peterfritz.vercel.app/api/spotify/now-playing.svg"
       height="100"
-    >
+    />
   </a>
   <br />
 </div>
